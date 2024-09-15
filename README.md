@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 allign-"center">Hi there 👋, i'm Oleg</h1>
 
-<!--
-**kharebovOleg/kharebovOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Website Developer
+- 💻I love programming
+- 📚I am learning new languages
+- 🎹 I love to play piano
 
-Here are some ideas to get you started:
+### Languages and Tools
+- Java
+- JavaScript
+- Html
+- CSS
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+- [Vk](https://vk.com/kharebov93)
+
+
