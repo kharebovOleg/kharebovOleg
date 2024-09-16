@@ -15,6 +15,5 @@
 ### Follow Me
 - [Vk](https://vk.com/kharebov93)
 
-![Build Status](https://img.shields.io/travis/username/repo.svg?style=flat-square)
 
 
